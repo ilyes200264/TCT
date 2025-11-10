@@ -235,6 +235,8 @@ export const demoSupportTickets = [
     type: "mechanic",
     status: "Scheduled",
     createdAt: "2025-09-04T08:15:00Z",
+    message:
+      "Tests routiers prévus après l’intervention afin de confirmer la résolution du bruit.",
   },
   {
     id: "tkt-2",
@@ -244,6 +246,8 @@ export const demoSupportTickets = [
     type: "wash",
     status: "Done",
     createdAt: "2025-08-30T13:00:00Z",
+    message:
+      "Opération terminée, facture transmise au responsable flotte pour validation.",
   },
   {
     id: "tkt-3",
@@ -253,6 +257,8 @@ export const demoSupportTickets = [
     type: "mechanic",
     status: "Requested",
     createdAt: "2025-09-06T17:30:00Z",
+    message:
+      "Techniciens dispatchés pour inspection sur site, photos fournies par l’opérateur.",
   },
 ];
 

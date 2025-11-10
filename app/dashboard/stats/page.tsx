@@ -1,3 +1,5 @@
+"use client";
+
 import { ArrowUpRight, Car, PieChart, Users } from "lucide-react";
 import {
   ResponsiveContainer,
